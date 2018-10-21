@@ -96,7 +96,6 @@ android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@android:color/darker_gray"
-        android:layout_above="@+id/btn_register"
         ></View>
     <Button
         android:id="@+id/btn_register"
@@ -105,7 +104,7 @@ android:layout_marginTop="10dp"
         android:text="register"
         android:background="@color/background_color"
         android:textColor="@color/register_color"
-        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
         />
 
 </LinearLayout>
