@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "179410051882",
+    "firebase_url": "https://countriesapp-2eb6a.firebaseio.com",
+    "project_id": "countriesapp-2eb6a",
+    "storage_bucket": "countriesapp-2eb6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179410051882:android:d05a430138bc5769",
+        "android_client_info": {
+          "package_name": "com.soleeklab.www.countries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179410051882-sc0konl0tup3goufp7236gf7uhvdmi4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soleeklab.www.countries",
+            "certificate_hash": "f763f82dbc9da623fe02e1a2d2ccbd159c90f3bb"
+          }
+        },
+        {
+          "client_id": "179410051882-bo8gcn3o72bnl6qdrc8slsd70omav1i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVyH0U8FEfFfft1VOMT5p5VEQ6YVxTL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179410051882-bo8gcn3o72bnl6qdrc8slsd70omav1i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="Email_Login">Email</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="no_countries">Error</string>
+
+</resources>
